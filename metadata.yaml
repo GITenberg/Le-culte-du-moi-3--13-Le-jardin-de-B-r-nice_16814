@@ -17,6 +17,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Maurice_Barrès
     - http://en.wikipedia.org/wiki/Maurice_Barrès
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16814#Le-culte-du-moi-3--13-Le-jardin-de-B-r-nice
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2005-10-07'
 gutenberg_type: Text
